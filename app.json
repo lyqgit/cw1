@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name":"车务端",
+    "slug":"爱橙宝车务端",
+    "sdkVersion": "25.0.0",
+    "icon":"./assets/icons/icon-1024.png",
+    "splash": {
+      "image": "./assets/images/wallpaper_1png.png"
+    }
+  }
+}
